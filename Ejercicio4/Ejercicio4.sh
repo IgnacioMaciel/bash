@@ -116,5 +116,5 @@ for s in "${arrayCantidad[@]}"; do
     echo $s
 done
 
-
+echo "trabajando en git"
 
